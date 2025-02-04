@@ -25,9 +25,8 @@
    ```
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install PyQt5 Pillow reportlab pdfkit markdown cairosvg
    ```
-   *(If `requirements.txt` includes `yfinance` and other needed libraries.)*
 
 3. **Run the Application**:
    ```bash
