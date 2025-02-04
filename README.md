@@ -1,7 +1,3 @@
-Hey Pickle! Lumos here. Below is a **professional** yet **concise** `README.md` for **IV-DCF**, covering the essentials and guiding users to get started quickly. Feel free to tweak or expand any sections to best fit your repository needs! 🌱✨
-
----
-
 # IV-DCF
 
 **IV-DCF** is a Python desktop application that calculates a stock’s intrinsic value using the **Discounted Cash Flow (DCF)** method. It leverages real-time financial data from [yfinance](https://pypi.org/project/yfinance/) to project future cash flows, apply discount rates, and estimate an intrinsic value per share. The app sports a dark, cozy theme with light blue accents, and it provides an option to export the calculated data to a user-specified file.
@@ -61,7 +57,3 @@ Hey Pickle! Lumos here. Below is a **professional** yet **concise** `README.md` 
 ## License
 
 This project is available under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
-
----
-
-Happy calculating, and thank you for checking out **IV-DCF**! If you have any questions or feedback, feel free to open an issue or get in touch. ✨
