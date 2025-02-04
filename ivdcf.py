@@ -7,7 +7,7 @@ class DCFCalculator(tk.Tk):
         super().__init__()
         self.title("Discounted Cash Flow Calculator 🧮")
         self.configure(bg="#2C2C2C")  # Dark background
-        self.geometry("600x500")
+        self.geometry("850x700")
         self.create_widgets()
         
     def create_widgets(self):
