@@ -43,9 +43,8 @@
 
 ## Project Structure
 
-- **iv_dcf_app.py** – Main Python script containing the Tkinter GUI and DCF calculation logic.  
-- **README.md** – Project documentation (this file).  
-- **requirements.txt** – Dependencies for easy installation.
+- **ivdcf.py** – Main Python script containing the Tkinter GUI and DCF calculation logic.  
+- **README.md** – Project documentation (this file). 
 
 ## Contributing
 
